@@ -192,10 +192,7 @@ Le projet a été développé en **10 sprints** (Sprint 0 à 9) suivant une mét
 
 ## 🤝 Auteurs
 
-**Yanis El Khabbouzi** - Étudiant(e) en 2e année d'Informatique  
-📧 Email : yanis.el-khabbouzi.etu@univ-lille.fr 
-🔗 GitHub : [GitHub](https://github.com/YanisElKhabbouzi)
-
+- Yanis El Khabbouzi
 - Maxence Antoine
 - Lony Michaux
 - Gaspard Catry
